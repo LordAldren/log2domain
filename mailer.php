@@ -1,8 +1,8 @@
 <?php
 // // I-include ang PHPMailer files
-// require 'PHPMailer/PHPMailer.php';
-// require 'PHPMailer/SMTP.php';
-// require 'PHPMailer/Exception.php';
+require 'PHPMailer/PHPMailer.php';
+require 'PHPMailer/SMTP.php';
+require 'PHPMailer/Exception.php';
 
 // // Gamitin ang PHPMailer classes
 use PHPMailer\PHPMailer\PHPMailer;
