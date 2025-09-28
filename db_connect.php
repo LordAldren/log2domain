@@ -11,7 +11,7 @@ $database = "logi_admin"; // 2. Pinalitan ko na rin ang variable name from $name
 
 // 3. Ilagay mo dito ang TOTOONG password galing sa iyong hosting
 // Kung hindi mo alam, i-reset mo sa cPanel gamit ang 'Change' button
-$password = "YUNG_TUNAY_NA_PASSWORD_MO_DITO"; 
+$password = "123"; 
 
 // --- WAKAS NG PAG-AYOS ---
 
